@@ -1,2 +1,4 @@
 commit.sh
 swap*
+a.out
+*.o
